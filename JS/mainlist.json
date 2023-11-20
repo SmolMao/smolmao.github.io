@@ -484,5 +484,21 @@
 		"progresses":[
 			"none"
 		]
+	},
+	"Prismatic Haze":{
+		"name":"Prismatic Haze",
+		"ytcode":"_BQMTcjw2ko",
+		"minimumPercent": 61,
+		"publisher":"Cirtrax",
+		"list":[
+			{
+				"name":"Li Mao",
+				"link":"https://www.youtube.com/watch?v=13y8IoSrB9g",
+				"hertz":"144"
+			}
+		],
+		"progresses":[
+			"none"
+		]
 	}
 }
