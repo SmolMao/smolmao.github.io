@@ -1,21 +1,58 @@
 {
-	"Exyl":{
+	"Li Mao":{
 		"levels":[
-			"Erebus"
+			"Loochiverse",
+			"Prismatic Haze",
+			"doradura",
+			"Disruption",
+			"Niwa",
+			"ILOVECYAN",
+			"FISH FISH GODMODE",
+			"HyperSonic",
+			"Acu",
+			"Thanatophobia",
+			"My Song",
+			"Elysian Aegis",
+			"Leyak",
+			"Land of Frogs",
+			"Vitouxic",
+			"Deltafunk",
+			"Tsuki",
+			"Chroma",
+			"Distorzona",
+			"Tendo",
+			"Damage",
+			"Energizer",
+			"Sleepless",
+			"Windy Landscape",
+			"BEATDEMON"
+		],
+		"progs":[
+			{
+				"name":"Rust",
+				"percent":90
+			}
+		]
+	},
+	"Athani":{
+		"levels":[
+			"Glisten",
+			"Poeyeng Aeng",
+			"BEATDEMON",
+			"Ditched Machine"
 		],
 		"progs":[
 			"none"
 		]
 	},
-	"Luqualizer":{
+	"Tilu":{
 		"levels":[
-			"Plasma Pulse Finale"
+			"Acu",
+			"Ring Trick",
+			"Boops N Snoots"
 		],
 		"progs":[
-			{
-				"name":"Erebus",
-				"percent":64
-			}
+			"none"
 		]
 	}
 }
