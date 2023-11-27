@@ -272,6 +272,22 @@
 			"none"
 		]
 	},
+	"Technicolor":{
+		"name":"Technicolor",
+		"ytcode":"mlHq10hnT0s",
+		"minimumPercent": 75,
+		"publisher":"SSaturM",
+		"list":[
+			{
+				"name":"Li Mao",
+				"link":"https://www.youtube.com/watch?v=XS0ISEdD4gQ&feature=youtu.be",
+				"hertz":"144"
+			}
+		],
+		"progresses":[
+			"none"
+		]
+	},
 	"Deltafunk":{
 		"name":"Deltafunk",
 		"ytcode":"FGNnN1MUbko",
@@ -495,22 +511,6 @@
 				"name":"Athani",
 				"link":"",
 				"hertz":"M/120"
-			}
-		],
-		"progresses":[
-			"none"
-		]
-	},
-	"Technicolor":{
-		"name":"Technicolor",
-		"ytcode":"mlHq10hnT0s",
-		"minimumPercent": 75,
-		"publisher":"SSaturM",
-		"list":[
-			{
-				"name":"Li Mao",
-				"link":"https://www.youtube.com/watch?v=XS0ISEdD4gQ&feature=youtu.be",
-				"hertz":"144"
 			}
 		],
 		"progresses":[
