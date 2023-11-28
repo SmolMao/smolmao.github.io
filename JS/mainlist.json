@@ -304,6 +304,22 @@
 			"none"
 		]
 	},
+	"no concept":{
+		"name":"no concept",
+		"ytcode":"NOlytanOmwc",
+		"minimumPercent": 72,
+		"publisher":"NesiaL",
+		"list":[
+			{
+				"name":"Li Mao",
+				"link":"https://www.youtube.com/watch?v=K3irRZyYsBA",
+				"hertz":"144"
+			}
+		],
+		"progresses":[
+			"none"
+		]
+	},
 	"Tsuki":{
 		"name":"Tsuki",
 		"ytcode":"Fg_B7DQ41SC0",
