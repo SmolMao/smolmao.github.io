@@ -416,6 +416,22 @@
 			"none"
 		]
 	},
+	"Magma Bound":{
+		"name":"Magma Bound",
+		"ytcode":"rbYGL36O1zc",
+		"minimumPercent": 71,
+		"publisher":"ScorchVx ",
+		"list":[
+			{
+				"name":"Li Mao",
+				"link":"https://www.youtube.com/watch?v=OHEuRl1ZpeE",
+				"hertz":"144"
+			}
+		],
+		"progresses":[
+			"none"
+		]
+	},
 	"Damage":{
 		"name":"Damage",
 		"ytcode":"qrTIt1Di6Bg",
