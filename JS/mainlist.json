@@ -64,6 +64,22 @@
 			"none"
 		]
 	},
+	"PITFALL":{
+		"name":"PITFALL",
+		"ytcode":"DJdPZznV_pA&t=5s",
+		"minimumPercent": 71,
+		"publisher":"Xplode ",
+		"list":[
+			{
+				"name":"Li Mao",
+				"link":"https://www.youtube.com/watch?v=C84tFJB2BYk&t=7s",
+				"hertz":"144"
+			}
+		],
+		"progresses":[
+			"none"
+		]
+	},
 	"Disruption":{
 		"name":"Disruption",
 		"ytcode":"hS8fT0P0MqU",
@@ -100,7 +116,7 @@
 		"name":"ILOVECYAN",
 		"ytcode":"TyvgDtlder4",
 		"minimumPercent": 78,
-		"publisher":"Teno",
+		"publisher":"AVRG",
 		"list":[
 			{
 				"name":"Li Mao",
@@ -122,6 +138,22 @@
 				"name":"Li Mao",
 				"link":"https://www.youtube.com/watch?v=XOeVB6Z8Tas",
 				"hertz":"240"
+			}
+		],
+		"progresses":[
+			"none"
+		]
+	},
+	"Light It Up":{
+		"name":"Light It Up",
+		"ytcode":"rJiQRf_-wjo&t=1s",
+		"minimumPercent": 76,
+		"publisher":"ARwooly",
+		"list":[
+			{
+				"name":"Li Mao",
+				"link":"https://www.youtube.com/watch?v=j1Fq8bhX16w",
+				"hertz":"144"
 			}
 		],
 		"progresses":[
@@ -506,6 +538,22 @@
 				"name":"Li Mao",
 				"link":"https://youtu.be/fdq8qZK4V3M",
 				"hertz":"144"
+			}
+		],
+		"progresses":[
+			"none"
+		]
+	},
+	"Thermodynamix":{
+		"name":"Thermodynamix",
+		"ytcode":"_tavE07Ke64",
+		"minimumPercent": 70,
+		"publisher":"CastriX",
+		"list":[
+			{
+				"name":"Li Mao",
+				"link":"https://youtu.be/7mr77ohlsY0",
+				"hertz":"2.2"
 			}
 		],
 		"progresses":[
